@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ua/setcom/developertools/Onscreen/DevToolsBroadcastReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ua/setcom/developertools/Onscreen/DevToolsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ua/setcom/developertools/Onscreen/DevToolsStartActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ua/setcom/developertools/Onscreen/DevToolsView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ua/setcom/developertools/Onscreen/DevToolsViewListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ua/setcom/developertools/Onscreen/DevToolsViewState.java" charset="UTF-8" />
+  </component>
+</project>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Developer tools</string>
+    <string name="c_app_name_on_screen">DT Onscreen</string>
+    <string name="open_onscreen_dt">Open DT</string>
+    <string name="wait_getting_su_permission">Wait, getting ROOT permissions</string>
+    <string name="no_connected">No connecting</string>
+
+</resources>
